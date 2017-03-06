@@ -4,10 +4,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using TrailerDatabase.Data;
-using TrailerDatabase.Models;
+using Treehouse.FitnessFrog.Data;
+using Treehouse.FitnessFrog.Models;
 
-namespace TrailerDatabase.Controllers
+namespace Treehouse.FitnessFrog.Controllers
 {
     public class EntriesController : Controller
     {

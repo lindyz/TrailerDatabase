@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace TrailerDatabase.Models
+namespace Treehouse.FitnessFrog.Models
 {
     /// <summary>
     /// Represents an activity that has been logged in the Fitness Frog app.

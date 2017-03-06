@@ -1,4 +1,4 @@
-﻿namespace TrailerDatabase.Models
+﻿namespace Treehouse.FitnessFrog.Models
 {
     /// <summary>
     /// Represents a physical activity.
